@@ -1,5 +1,5 @@
 # Google Apps Script Project: locktestlib
-This repo (locktestlib) was automatically created on 07 June 2016 12:57:07 BST by GasGit
+This repo (locktestlib) was automatically created on 31 October 2018 11:44:05 GMT by GasGit
 for more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation")
 you can see [library and dependency information here](dependencies.md)
 
